@@ -56,6 +56,7 @@ sensor:
       name: Wspolczynnik mocy
     heating_power:
       name: Moc grzewcza
+
 button:
   - platform: template
     name: "Reset licznika energii"
